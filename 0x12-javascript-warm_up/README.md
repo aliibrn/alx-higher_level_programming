@@ -1,8 +1,7 @@
-guillaume@ubuntu:~/0x12$ ./9-add.js 
-NaN
-guillaume@ubuntu:~/0x12$ ./9-add.js 1
-NaN
-guillaume@ubuntu:~/0x12$ ./9-add.js 1 7
-8
-guillaume@ubuntu:~/0x12$ ./9-add.js 13 89
-102
+guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 
+0
+guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 1
+0
+guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 4 2 5 3 0 -3
+4
+guillaume@ubuntu:~/0x12$ 
