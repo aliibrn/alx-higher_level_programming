@@ -1,12 +1,8 @@
-README file
-guillaume@ubuntu:~/0x12$ ./5-to_integer.js 
-Not a number
-guillaume@ubuntu:~/0x12$ ./5-to_integer.js 89
-My number: 89
-guillaume@ubuntu:~/0x12$ ./5-to_integer.js "89"
-My number: 89
-guillaume@ubuntu:~/0x12$ ./5-to_integer.js 89.89
-My number: 89
-guillaume@ubuntu:~/0x12$ ./5-to_integer.js School
-Not a number
-guillaume@ubuntu:~/0x12$ 
+guillaume@ubuntu:~/0x12$ ./9-add.js 
+NaN
+guillaume@ubuntu:~/0x12$ ./9-add.js 1
+NaN
+guillaume@ubuntu:~/0x12$ ./9-add.js 1 7
+8
+guillaume@ubuntu:~/0x12$ ./9-add.js 13 89
+102
