@@ -4,11 +4,12 @@ class rectangle{
             return null;
         this.width = w;
         this.height = h;
+        this.char = 'X';
     }
     print() {
         for(let i = 0; i < this.height; i++){
             for(let j = 0; j < this.width; j++){
-                process.stdout.write('X')
+                process.stdout.write(this.char);
             }
             process.stdout.write('\n');
         }
